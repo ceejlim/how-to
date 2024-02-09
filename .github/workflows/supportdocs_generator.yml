@@ -4,8 +4,11 @@ on:
         branches:
             - DataSource
 jobs:
+
     generate:
         runs-on: ubuntu-latest
+        permissions:
+          contents: write
         steps:
             - name: Checkout Branch
               uses: actions/checkout@v2

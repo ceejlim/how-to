@@ -1,6 +1,6 @@
 ---
 title: Buy blue boba
-tags: boba
+tags: boba, tea
 ---
 
 # Buy blue boba

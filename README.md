@@ -1,5 +1,5 @@
-# SupportDocs: DataSource
-This branch is where SupportDocs gets its data! You can add, edit, and delete documents here. For usage instructions, check out the `README`'s [usage](https://github.com/aheze/SupportDocs#using-the-github-repository) section in the main branch.
+# How to
+Test creating how-to
 
 ## Data Source JSON URL
 <a href="https://raw.githubusercontent.com/ceejlim/how-to/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/ceejlim/how-to/DataSource/_data/supportdocs_datasource.json</a>

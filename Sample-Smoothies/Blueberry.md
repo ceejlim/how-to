@@ -3,7 +3,7 @@ title: Blueberry smoothie
 tags: smoothies
 ---
 
-# Blueberry smoothie
+# Blueberry smoothieddddd
 
 
 Blueberry smoothies taste great! What is your favorite smoothie?

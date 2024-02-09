@@ -6,7 +6,7 @@ tags: smoothies
 # Blueberry smoothieddddd
 
 
-Blueberry smoothies taste great! What is your favorite smoothie?
+Blueberry sdfgsdfgdf smoothies taste great! What is your favorite smoothie?
 
 Apple | Blueberry | Peach | Plum | Red Berry
 --- | --- | --- | --- | ---
